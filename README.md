@@ -3,7 +3,7 @@ This project is a dashboard comprised of editable widgets.
 The widgets use APIs and update according to the timer set at the start.
 	
 ## Technologies
-Project is created uses Vaadin, wich is java framework.
+Project uses Vaadin, wich is java a framework.
 	
 ## Setup
 Make sure The 8080 port is available.

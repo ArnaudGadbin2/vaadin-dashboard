@@ -1,5 +1,6 @@
 ## General info
-This project is a dashboard comprised of editable widgets.
+This project was realized in two weeks during PreMsc at Epitech.
+This is a dashboard comprised of editable widgets.
 The widgets use APIs and update according to the timer set at the start.
 	
 ## Technologies

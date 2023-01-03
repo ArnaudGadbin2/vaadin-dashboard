@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/target/flow-frontend",
+  "staticOutput": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/target/classes/META-INF/VAADIN/webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}

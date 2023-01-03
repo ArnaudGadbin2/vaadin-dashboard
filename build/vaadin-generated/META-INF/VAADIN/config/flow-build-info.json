@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise",
+  "node.version": "v16.18.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/build/frontend",
+  "frontendFolder": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/frontend",
+  "connect.javaSourceFolder": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/src/main/java",
+  "javaResourceFolder": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/src/main/resources",
+  "connect.applicationProperties": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/arnaud/epitech/preMsc/dashboard/T-JAV-501-MPL-5-1-dashboard-arnaud.troise/frontend/generated",
+  "pnpm.enable": true,
+  "require.home.node": false,
+  "build.folder": "build"
+}
